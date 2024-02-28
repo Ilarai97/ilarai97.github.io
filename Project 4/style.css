@@ -1,77 +1,95 @@
 .hello {
     background-color: rgb(245, 135, 186);
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 50px;
+    font-style: initial;
 }
 .hero-img {
     border-radius: 50%;
-    height: 280px;
-    width: 310px;
+    height: 250px;
+    width: 280px;
     border: 10px solid black;
-    margin-left: 50px;
-    margin-top: 10px;
+    margin-left: 40px;
+    margin-top: 5px;
     margin-top: 50px;
 }
 .heroh2 {
-    margin-left: 0px;
+    margin-left: 20px;
     margin-bottom: 0 px;
-    font-size: 40px;
+    font-size: 30px;
 }
 .heroptag {
-    margin-left: 50px;
+    margin-left: 20px;
     margin-bottom: 0px;
-    font-size: 25px;
+    font-size: 20px;
 }
 .hi {
-    font-size: 40px;
+    font-size: 30px;
+    margin-left: 20px;
 }
 ol {
-    font-size: 25px;
+    font-size: 20px;
     list-style: circle;
 }
 .footer-section{
-    font-size: 20px;
+    font-size: 15px;
+    margin-left: 19px;
 }
 .bye {
-    font-size: 25px;
+    font-size: 2opx;
+    margin-left: 19px;
 }
 .bb {
-    font-size: 40px;
+    font-size: 20px;
+    margin-left: 19px;
 }
 .aa {
-    font-size:40px ;
+    font-size:20px ;
+    margin-left: 19px;
 }
 .nn {
-    font-size: 30px;
+    font-size: 25px;
 }
 .nnn {
-    font-size:30px ;
+    font-size:20px ;
 }
 .testimonies {
 background-color: rgb(145, 153, 132);
-padding-left: 50px;
+padding-left: 40px;
 padding-top: 15px;
 }
 .mn {
-    font-size: 40px;
+    font-size: 30px;
+    margin-left: 19px;
 }
 .ab {
-    font-size: 30px;
+    font-size: 25px;
 }
 .abb {
-    font-size: 30px;
+    font-size: 20px;
 }
 .test {
     background-color: rgb(145, 153, 132);
-    padding-left: 50px;
+    padding-left: 40px;
     padding-top: 15px;
 }
 .l {
-    font-size: 40px;
+    font-size: 20px;
+    margin-left: 19px;
 }
 .m {
-    font-size:40px;
+    font-size:20px;
+    margin-left: 19px;
 }
 .n {
-    font-size: 40px;
+    font-size: 20px;
+    margin-left: 19px;
+}
+.hiii {
+    font-size: 29px;
+    margin-left: 15px;
+}
+.o {
+    margin-left: 19px;
+    margin-top: -20px;
 }
