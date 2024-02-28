@@ -1,0 +1,77 @@
+.hello {
+    background-color: rgb(245, 135, 186);
+    font-size: 50px;
+    margin-left: 50px;
+}
+.hero-img {
+    border-radius: 50%;
+    height: 280px;
+    width: 310px;
+    border: 10px solid black;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-top: 50px;
+}
+.heroh2 {
+    margin-left: 0px;
+    margin-bottom: 0 px;
+    font-size: 40px;
+}
+.heroptag {
+    margin-left: 50px;
+    margin-bottom: 0px;
+    font-size: 25px;
+}
+.hi {
+    font-size: 40px;
+}
+ol {
+    font-size: 25px;
+    list-style: circle;
+}
+.footer-section{
+    font-size: 20px;
+}
+.bye {
+    font-size: 25px;
+}
+.bb {
+    font-size: 40px;
+}
+.aa {
+    font-size:40px ;
+}
+.nn {
+    font-size: 30px;
+}
+.nnn {
+    font-size:30px ;
+}
+.testimonies {
+background-color: rgb(145, 153, 132);
+padding-left: 50px;
+padding-top: 15px;
+}
+.mn {
+    font-size: 40px;
+}
+.ab {
+    font-size: 30px;
+}
+.abb {
+    font-size: 30px;
+}
+.test {
+    background-color: rgb(145, 153, 132);
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.l {
+    font-size: 40px;
+}
+.m {
+    font-size:40px;
+}
+.n {
+    font-size: 40px;
+}
