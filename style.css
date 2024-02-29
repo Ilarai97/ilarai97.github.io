@@ -4,6 +4,11 @@
     margin-left: 50px;
     font-style: initial;
 }
+
+.namaste{
+    color: red;
+}
+
 .hero-img {
     border-radius: 50%;
     height: 250px;
@@ -19,6 +24,7 @@
     font-size: 30px;
 }
 .heroptag {
+    color: blue;
     margin-left: 20px;
     margin-bottom: 0px;
     font-size: 20px;
